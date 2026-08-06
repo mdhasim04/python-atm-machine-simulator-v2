@@ -54,7 +54,7 @@ python-atm-machine-simulator-v2/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/python-atm-machine-simulator-v2.git
+git clone https://github.com/mdhasim04/python-atm-machine-simulator-v2.git
 ```
 
 ### Step 2: Open the Project Folder
